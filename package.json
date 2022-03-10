@@ -1,0 +1,20 @@
+{
+	"name": "npm-supertest-and-nock-demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+	  "test": "mocha \"*/**/*Test.js\""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+	  "chai": "^4.3.6",
+	  "express": "^4.17.3",
+	  "mocha": "^9.2.1",
+	  "nock": "^13.2.4",
+	  "node-fetch": "^2.6.7",
+	  "supertest": "^6.2.2"
+	}
+}
